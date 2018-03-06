@@ -65,5 +65,4 @@ def paste_food(original_image, foodType):
   
     return result #return new picture
     
-    result = PIL.Image.new('RGBA', original_image.size, (0,0,0,0))
     
